@@ -1,2 +1,2 @@
 # file-server
-File server with vanilla Node.js
+Simple file server made with vanilla Node.js sending static files
